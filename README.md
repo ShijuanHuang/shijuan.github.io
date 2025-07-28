@@ -1,69 +1,27 @@
+## ❤️ 💼 Brief Introduction
+
+Shijuan Huang (Chinese: 黄士娟), a Ph.D. Candidate (2nd year student, 2023.09-2027.06) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by Prof. Hefei Ling.
 
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
-![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
+## 📁 Research
 
-# A simple Github Pages template for personal academic websites.
+I am passionate about **12345** among mobile devices. My current research interests focus on 55555:
 
-## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
+- ⭐ 555
+- 555
+- (555
+- 555
+- 555
 
+<br>
 
-## Introduction
+**PS:** If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail, QQ: 55555, or Wechat: 5555
 
-This personal academic website template is based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
+---
 
-The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
+## 🔥 News
 
-This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
+- **2025.05**: 🏆 One paper was accepted by **ICML'25 (Spotlight, Score: 4.5/5)**!
+- **2025.05**: 🏆 One paper was accepted by **IEEE COMST (IF=35.6, Top 1 in IEEE)**!
+- **2025.04**: 🏆 One project was granted by the **Fundamental Research Funds for the Central Universities**!
 
-:milky_way: Demo: https://senli1073.github.io/
-
-
-## Getting Start
-### 1. Fork this repository
-The repository name should be `<username>.github.io`, which will also be your website's URL.
-
-
-### 2. Edit page content
-
-(1) Go to the folder where you want to store your project, and clone the new repository:
-```
-git clone https://github.com/<username>/<username>.github.io.git
-```
-The directory structure is as follows:
-
-```.
-.
-├── contents
-└── static
-    ├── assets
-    │   └── img
-    ├── css
-    └── js
-```
-
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
-
-(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
-
-(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
-
-(5) Push it: 
-```
-git commit -am 'init'
-git push
-```
-
-
-### 3. Enjoy
-
-Fire up a browser and go to `https://<username>.github.io`
-
-
-
-## License
-
-Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
