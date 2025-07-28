@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Shijuan Huang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ShijuanHuang/)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+A Ph.D. Candidate (2nd year student, 2023.09-2027.06) in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST), advised by Prof. Hefei Ling.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: shijuan_huang@hust.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2022.09 – Present, Ph.D. in Computer Science and Technology, Huazhong University of Science and Technology (HUST), Wuhan, China.\
+2018.09 – 2022.06, B.E. in Bioinformatics, Huazhong University of Science and Technology (HUST), Wuhan, China.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Person re-identification.
 
