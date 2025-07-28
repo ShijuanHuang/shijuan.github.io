@@ -1,16 +1,15 @@
-#### Submitted
+<!-- #### Submitted
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor) -->
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Hunag S<strong>, Li Z, Ling H*, et al. FRNS: A Dual-Strategy Framework for Fine-Grained Feature Refinement and Text Noise Suppression in Text-Based Person Retrieval[J]. <strong>IEEE Transactions on Biometrics, Behavior, and Identity Science<strong>, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11048583)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Huang S<strong>, Li Z*, Ling H*, et al. Cross-Modality Relation and Uncertainty Exploration for Text-Based Person Search[J]. <strong>ACM Transactions on Multimedia Computing, Communications and Applications<strong>, 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3747185)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Huang S<strong>, Ling H*. Multi-Branch Clothes-Agnostic Feature Learning for Cloth-Changing Person Re-identification. in Proceeding 28th European Conference on Artificial Intelligence (ECAI), 2025, accept.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>Huang S<strong>, Ling H*. Seeing Through Changes: Clothing Information Suppression and Momentum Enhancement for Cloth-Changing Person Re-Identification. in Proceeding IEEE International Joint Conference on Neural Networks (IJCNN), 2025, accept.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
